@@ -43,7 +43,7 @@ This is a simple QR code component built using HTML and Tailwind CSS. This one i
 
 ### What I learned
 
-I gained experience with installing and configuring Tailwind CSS in a project, including how to use its class style utility and customize its configuration options.
+I gained experience with installing and configuring Tailwind CSS in a project, including how to use its class style utility and customize its configuration options. I must say that the Accessibility report really is new for me and it helps a lot.
 
 ## Author
 
