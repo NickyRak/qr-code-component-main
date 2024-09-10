@@ -24,6 +24,10 @@ This is a simple QR code component built using HTML and Tailwind CSS. This one i
 ![](./screenshot.png)
 ![](./screenshot-responsive.png)
 
+### Links
+
+- Live Site URL: [QR Code Component - Vercel](https://qr-code-component-main-kohl-three.vercel.app/)
+
 ## My process
 
 - Initialise the project using GitHub Desktop App
