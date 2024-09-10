@@ -15,11 +15,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
-This is a simple QR code component built using HTML and Tailwind CSS. It took me around 30 minutes to complete and I tried to follow best practices for building a component like this, such as using utility classes for styling. The design is responsive and works well on different screen sizes.
+This is a simple QR code component built using HTML and Tailwind CSS. This one is my first Frontend Mentor challenge and it took me around 30 minutes to complete. I tried to follow best practices for building a component like this. The design is responsive and works well on different screen sizes.
 
 ### Screenshot
 
